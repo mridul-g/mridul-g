@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently a 2nd year undergrad at CSE, IIT Kanpur
+🔭 I’m interested in machine learning, NLP and software development
+
